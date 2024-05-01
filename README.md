@@ -1,4 +1,4 @@
-# Minimal Theme
+# Zeyi Zhang
 Theme by [orderedlist](https://github.com/orderedlist).
 
 
